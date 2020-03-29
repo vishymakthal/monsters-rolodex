@@ -1,0 +1,22 @@
+{
+  "files": {
+    "main.css": "/vishymakthal.github.io/monsters-rolodex/static/css/main.a0d36ae9.chunk.css",
+    "main.js": "/vishymakthal.github.io/monsters-rolodex/static/js/main.d9e5f818.chunk.js",
+    "main.js.map": "/vishymakthal.github.io/monsters-rolodex/static/js/main.d9e5f818.chunk.js.map",
+    "runtime-main.js": "/vishymakthal.github.io/monsters-rolodex/static/js/runtime-main.6800d190.js",
+    "runtime-main.js.map": "/vishymakthal.github.io/monsters-rolodex/static/js/runtime-main.6800d190.js.map",
+    "static/js/2.0d232ef2.chunk.js": "/vishymakthal.github.io/monsters-rolodex/static/js/2.0d232ef2.chunk.js",
+    "static/js/2.0d232ef2.chunk.js.map": "/vishymakthal.github.io/monsters-rolodex/static/js/2.0d232ef2.chunk.js.map",
+    "index.html": "/vishymakthal.github.io/monsters-rolodex/index.html",
+    "precache-manifest.3d695876dcb0e6a1c5104217e8d70690.js": "/vishymakthal.github.io/monsters-rolodex/precache-manifest.3d695876dcb0e6a1c5104217e8d70690.js",
+    "service-worker.js": "/vishymakthal.github.io/monsters-rolodex/service-worker.js",
+    "static/css/main.a0d36ae9.chunk.css.map": "/vishymakthal.github.io/monsters-rolodex/static/css/main.a0d36ae9.chunk.css.map",
+    "static/js/2.0d232ef2.chunk.js.LICENSE.txt": "/vishymakthal.github.io/monsters-rolodex/static/js/2.0d232ef2.chunk.js.LICENSE.txt"
+  },
+  "entrypoints": [
+    "static/js/runtime-main.6800d190.js",
+    "static/js/2.0d232ef2.chunk.js",
+    "static/css/main.a0d36ae9.chunk.css",
+    "static/js/main.d9e5f818.chunk.js"
+  ]
+}
